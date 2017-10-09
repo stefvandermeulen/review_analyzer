@@ -1,0 +1,13 @@
+#################
+FOLDERS TO IGNORE
+#################
+output/*
+###########################
+OUTPUT FILES AND TEMP FILES
+###########################
+.idea/
+__pycache__/
+*.pyc
+*.log
+.project
+.pydevproject
